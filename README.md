@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Web Application with ReactJS + Typescript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Using
+
+- [ReactJS](https://reactjs.org)
+- [React Query](https://react-query.tanstack.com)
+- [Typescript](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [ESLint](https://eslint.org)
+- [Husky](https://typicode.github.io/husky)
+- [Lint Staged](https://github.com/okonet/lint-staged)
+- [Commitlint](https://commitlint.js.org)
 
 ## Available Scripts
 
