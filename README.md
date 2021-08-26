@@ -10,6 +10,7 @@
 
 - [ReactJS](https://reactjs.org)
 - [React Query](https://react-query.tanstack.com)
+- [React Hot Toast](https://react-hot-toast.com)
 - [Typescript](https://www.typescriptlang.org/docs/handbook/intro.html)
 - [ESLint](https://eslint.org)
 - [Husky](https://typicode.github.io/husky)
