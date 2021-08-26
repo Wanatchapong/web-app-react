@@ -1,12 +1,12 @@
 # Web Application with ReactJS + Typescript
 
-## Getting Start
+## 🎉 Quick Start
 
 1. Create .env file
 2. Copy all environments variables from .env.example into .env
-3. Run script: `npm start` :rocket:
+3. Run script: `npm start` 🚀
 
-## Dependencies using
+## 📌 Dependencies
 
 - [ReactJS](https://reactjs.org)
 - [React Query](https://react-query.tanstack.com)
@@ -16,7 +16,7 @@
 - [Lint Staged](https://github.com/okonet/lint-staged)
 - [Commitlint](https://commitlint.js.org)
 
-## Available Scripts
+## 📖 Available Scripts
 
 In the project directory, you can run:
 
