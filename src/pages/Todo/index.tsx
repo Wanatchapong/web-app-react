@@ -16,10 +16,9 @@ export default function Todo(): JSX.Element {
   }
 
   return (
-    <div>
+    <div className="todo">
       <h3>Todo List</h3>
       <TodoInput />
-      <hr />
       <TodoList todos={todos} />
     </div>
   )

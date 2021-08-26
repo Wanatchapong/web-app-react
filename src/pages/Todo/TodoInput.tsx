@@ -20,7 +20,10 @@ export default function TodoInput(): JSX.Element {
       }),
       {
         loading: 'Loading...',
-        success: 'Add todo successful',
+        success: () => {
+          setTitle('')
+          return 'Add todo successful'
+        },
         error: 'Add todo failed',
       }
     )

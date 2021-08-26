@@ -13,7 +13,6 @@ export default function TodoList(props: TodoListProps): JSX.Element {
       {todos?.map((todo) => (
         <li key={todo.id} className="todo-item">
           <span>{todo.title}</span>
-          <span>{todo.description}</span>
           <span>{todo.status}</span>
         </li>
       ))}

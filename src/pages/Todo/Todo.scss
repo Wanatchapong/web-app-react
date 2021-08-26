@@ -1,7 +1,16 @@
+.todo {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .todo-item {
+  text-align: left;
+
   span {
     &::after {
-      content: ' | ';
+      content: ' -> ';
     }
 
     &:last-of-type {
