@@ -20,7 +20,7 @@ const QueryKeys = {
 }
 
 export const useFetchTodos = (): UseQueryResult<Todo[], Error> => {
-  return useQuery<Todo[], Error>(QueryKeys.TODOS, async () => {
+  return useQuery(QueryKeys.TODOS, async () => {
     const { data } = await httpClient.get('/todo')
     return data.data
   })
